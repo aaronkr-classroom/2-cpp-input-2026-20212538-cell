@@ -1,5 +1,4 @@
 // triangle.cpp
-// square.cpp
 #include <iostream>
 
 //표준 라이브러리에서 가져와서 사용할 이름을 언급

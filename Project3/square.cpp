@@ -13,7 +13,7 @@ int main(void) {
 	int option;
 	cin >> option;
 
-	if (option ! = 1 && option ! = 2) {
+	if (option != 1 && option != 2) {
 	cout << "Error: Only choose 1  or 2!";
 	return 0x712F; //16Áø¹ý (hex)
 }
